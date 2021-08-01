@@ -1,0 +1,8 @@
+This is my 1st day project out of 30th day project.
+
+In this project I took help from the youtube of tech gun.
+
+The main motive of this project is to use as much as less CSS
+
+All the contained are used from the Bootstrap
+
